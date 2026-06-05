@@ -1,0 +1,6 @@
+{
+  "name": "BharatInvest",
+  "description": "Calculate returns and track multi-year projected interest income from Indian Government Savings Schemes (PPF, SSY, NSC, SCSS, KVP, POMIS, and more).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

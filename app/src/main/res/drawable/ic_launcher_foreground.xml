@@ -3,6 +3,6 @@
     <item
         android:width="66dp"
         android:height="66dp"
-        android:drawable="@drawable/bharat_invest_simple_icon_1780153001815"
+        android:drawable="@drawable/bharatinvest_icon_asset_1781441569439"
         android:gravity="center" />
 </layer-list>
